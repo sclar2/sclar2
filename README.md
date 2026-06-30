@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @sclar2
-- 👀 I’m interested in the process of programming, and a lot of other things as well.
-- 🌱 I’m currently learning programming at Solano Community College.
-- 💞️ I’m looking to collaborate on anything that looks interesting and anything that I'm able to help with.
-- 📫 How to reach me:  Please send me a message on GitHub.
+Hello, I'm sclar2, a Computer Science student currently studying at UC Davis.
+
+The published projects are what I have done on the side to better my craft. I have also completed homework assignments related to my field.
+
+Please ask me anything. Thank you for reading.
 
 <!---
 sclar2/sclar2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
